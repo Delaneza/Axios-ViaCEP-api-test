@@ -1,0 +1,1 @@
+Pequeno teste utilizando axios para disparar uma requisição na api VIACEP, retornando assim os dados do endereço, de acordo com o CEP informado.
